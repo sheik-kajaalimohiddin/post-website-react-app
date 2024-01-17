@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "New post for the day",
+      "datetime": "January 15, 2024 8:38:51 AM",
+      "body": "this is post is new after all posts are deleted."
+    },
+    {
+      "id": 2,
+      "title": "Spring 2024",
+      "datetime": "January 15, 2024 8:40:05 AM",
+      "body": "This semester for us is about Capstone and another subject."
+    },
+    {
+      "id": 3,
+      "title": "Summer 2024",
+      "datetime": "January 15, 2024 8:40:24 AM",
+      "body": "No Class, Graduation time."
+    }
+  ]
+}
